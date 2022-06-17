@@ -1,0 +1,71 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R13135436
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           Market Profile Data 2020
+Dataset:          Original Tables
+Tables:
+
+      1. EASI Quality of Life Index (US Avg=100)
+         Universe:  none
+         Name:      MPD_107
+         Variables:
+            EASIQLIFE:   EASI Quality of Life Index (US Avg=100)
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      NAME:           Name of Area
+      QNAME:          Qualifying Name
+      NATION:         Nation
+      STATE:          State
+      COUNTY:         County
+      CT:             Census Tract
+      BG:             Block Group
+      CITY:           City
+      MSAMSA:         Metropolitan Statistical Area/Micropolitan Statistical Area
+      ZC:             ZIP Code
+      EASIQLIFE:      EASI Quality of Life Index (US Avg=100)
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2022
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R13135436
+
+If you have any questions contact info@socialexplorer.com

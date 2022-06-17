@@ -1,0 +1,221 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R13135637
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           Market Profile Data 2020
+Dataset:          Original Tables
+Tables:
+
+      1. Consumer Expenditures, Summary
+         Universe:  none
+         Name:      MPD_113
+         Variables:
+            ANNEXP:   Total annual expenditures ($000)
+            FOOD:      Food ($000)
+            HOUSING:      Housing ($000)
+            APPAREL:      Apparel and services ($000)
+            TRANSPORT:      Transportation ($000)
+            HEALTH:      Healthcare ($000)
+            ENTERTAIN:      Entertainment ($000)
+            PERSCARE:      Personal care products and services ($000)
+            READING:      Reading ($000)
+            EDUCATION:      Education ($000)
+            TOBACCO:      Tobacco products and smoking supplies ($000)
+            CASCONTR:      Cash contributions ($000)
+            PERSINS:      Personal insurance and pensions ($000)
+
+
+      2. Consumer Expenditures, Food
+         Universe:  none
+         Name:      MPD_114
+         Variables:
+            FOOD1:   Food ($000)
+            FOODHOME:      Food at home ($000)
+            FOODAWAY:      Food away from home ($000)
+            CEREALBAKE:      Cereals and bakery products ($000)
+            DAIRY:      Dairy products ($000)
+            FRUITVEG:      Fruits and vegetables ($000)
+            NONALBEV:      Nonalcoholic beverages ($000)
+            FOODOUT_C:      Food prepared by consumer unit on out-of-town trips ($000)
+            FOODOUT:      Food on out-of-town trips ($000)
+            ALCOHBEV:      Alcoholic beverages ($000)
+
+
+      3. Consumer Expenditures, Housing
+         Universe:  none
+         Name:      MPD_115
+         Variables:
+            HOUSING1:   Housing ($000)
+            HOUSEOPER:      Household operations ($000)
+            HOUSEKEEP:      Housekeeping services ($000)
+            HOUSEFURN:      Household furnishings and equipment ($000)
+            HOUSETEXTL:      Household textiles ($000)
+            FURNITURE:      Furniture ($000)
+            FLOORCOVER:      Floor coverings ($000)
+            MAJORAPPL:      Major appliances ($000)
+            SMAPPL:      Small appliances ($000)
+            MISCHHEQ:      Miscellaneous household equipment ($000)
+
+
+      4. Consumer Expenditures, Apparel
+         Universe:  none
+         Name:      MPD_116
+         Variables:
+            APPAREL1:   Apparel and services ($000)
+            MENBOYS:      Men and boys ($000)
+            BOYS:         Boys, 2 to 16 ($000)
+            MEN16PLS:         Men, 16 and over ($000)
+            WOMENGRL:      Women and girls ($000)
+            GIRLS:         Girls, 2 to 16 ($000)
+            WOMEN16:         Women, 16 and over ($000)
+            CHILDRN:   Children under 2 ($000)
+            FOOTWEAR:   Footwear ($000)
+            OTHRAPP:   Other apparel products and services ($000)
+
+
+      5. Consumer Expenditures, Transportation
+         Universe:  none
+         Name:      MPD_117
+         Variables:
+            TRANSPORT1:   Transportation ($000)
+            VEHPURCH:      Vehicle purchases (net outlay) ($000)
+            GAS:      Gasoline and motor oil ($000)
+            OTHRVEH:      Other vehicle expenses ($000)
+            PUBTRANS:      Public transportation ($000)
+
+
+      6. Consumer Expenditures, Healthcare
+         Universe:  none
+         Name:      MPD_118
+         Variables:
+            HEALTH1:   Healthcare ($000)
+            HEALTHINS:      Health insurance ($000)
+            MED_SERVE:      Medical services ($000)
+            DRUGS:      Drugs ($000)
+            MEDSUPP:      Medical supplies ($000)
+
+
+      7. Consumer Expenditures, Entertainment
+         Universe:  none
+         Name:      MPD_119
+         Variables:
+            ENTERTAIN1:   Entertainment ($000)
+            FEESADM:      Fees and admissions ($000)
+            TELERAD:      Audio and visual equipment and services ($000)
+            PETSTOYS:      Pets, toys, hobbies, and playground equipment ($000)
+            OTHR_ENT:      Other entertainment supplies, equipment, and services ($000)
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      NAME:           Name of Area
+      QNAME:          Qualifying Name
+      NATION:         Nation
+      STATE:          State
+      COUNTY:         County
+      CT:             Census Tract
+      BG:             Block Group
+      CITY:           City
+      MSAMSA:         Metropolitan Statistical Area/Micropolitan Statistical Area
+      ZC:             ZIP Code
+      ANNEXP:         Total annual expenditures ($000)
+      FOOD:           Food ($000)
+      HOUSING:        Housing ($000)
+      APPAREL:        Apparel and services ($000)
+      TRANSPORT:      Transportation ($000)
+      HEALTH:         Healthcare ($000)
+      ENTERTAIN:      Entertainment ($000)
+      PERSCARE:       Personal care products and services ($000)
+      READING:        Reading ($000)
+      EDUCATION:      Education ($000)
+      TOBACCO:        Tobacco products and smoking supplies ($000)
+      CASCONTR:       Cash contributions ($000)
+      PERSINS:        Personal insurance and pensions ($000)
+      FOOD1:          Food ($000)
+      FOODHOME:       Food at home ($000)
+      FOODAWAY:       Food away from home ($000)
+      CEREALBAKE:     Cereals and bakery products ($000)
+      DAIRY:          Dairy products ($000)
+      FRUITVEG:       Fruits and vegetables ($000)
+      NONALBEV:       Nonalcoholic beverages ($000)
+      FOODOUT_C:      Food prepared by consumer unit on out-of-town trips ($000)
+      FOODOUT:        Food on out-of-town trips ($000)
+      ALCOHBEV:       Alcoholic beverages ($000)
+      HOUSING1:       Housing ($000)
+      HOUSEOPER:      Household operations ($000)
+      HOUSEKEEP:      Housekeeping services ($000)
+      HOUSEFURN:      Household furnishings and equipment ($000)
+      HOUSETEXTL:     Household textiles ($000)
+      FURNITURE:      Furniture ($000)
+      FLOORCOVER:     Floor coverings ($000)
+      MAJORAPPL:      Major appliances ($000)
+      SMAPPL:         Small appliances ($000)
+      MISCHHEQ:       Miscellaneous household equipment ($000)
+      APPAREL1:       Apparel and services ($000)
+      MENBOYS:        Men and boys ($000)
+      BOYS:           Boys, 2 to 16 ($000)
+      MEN16PLS:       Men, 16 and over ($000)
+      WOMENGRL:       Women and girls ($000)
+      GIRLS:          Girls, 2 to 16 ($000)
+      WOMEN16:        Women, 16 and over ($000)
+      CHILDRN:        Children under 2 ($000)
+      FOOTWEAR:       Footwear ($000)
+      OTHRAPP:        Other apparel products and services ($000)
+      TRANSPORT1:     Transportation ($000)
+      VEHPURCH:       Vehicle purchases (net outlay) ($000)
+      GAS:            Gasoline and motor oil ($000)
+      OTHRVEH:        Other vehicle expenses ($000)
+      PUBTRANS:       Public transportation ($000)
+      HEALTH1:        Healthcare ($000)
+      HEALTHINS:      Health insurance ($000)
+      MED_SERVE:      Medical services ($000)
+      DRUGS:          Drugs ($000)
+      MEDSUPP:        Medical supplies ($000)
+      ENTERTAIN1:     Entertainment ($000)
+      FEESADM:        Fees and admissions ($000)
+      TELERAD:        Audio and visual equipment and services ($000)
+      PETSTOYS:       Pets, toys, hobbies, and playground equipment ($000)
+      OTHR_ENT:       Other entertainment supplies, equipment, and services ($000)
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2022
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R13135637
+
+If you have any questions contact info@socialexplorer.com
