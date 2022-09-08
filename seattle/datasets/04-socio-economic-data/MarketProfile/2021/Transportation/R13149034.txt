@@ -1,0 +1,79 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R13149034
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           Market Profile Data 2021
+Dataset:          Original Tables
+Tables:
+
+      1. Consumer Expenditures, Transportation
+         Universe:  none
+         Name:      MPD_117
+         Variables:
+            TRANSPORT1:   Transportation ($000)
+            VEHPURCH:      Vehicle purchases (net outlay) ($000)
+            GAS:      Gasoline and motor oil ($000)
+            OTHRVEH:      Other vehicle expenses ($000)
+            PUBTRANS:      Public and other transportation ($000)
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      NAME:           Name of Area
+      QNAME:          Qualifying Name
+      NATION:         Nation
+      STATE:          State
+      COUNTY:         County
+      CT:             Census Tract
+      BG:             Block Group
+      CITY:           City
+      MSAMSA:         Metropolitan Statistical Area/Micropolitan Statistical Area
+      ZC:             ZIP Code
+      TRANSPORT1:     Transportation ($000)
+      VEHPURCH:       Vehicle purchases (net outlay) ($000)
+      GAS:            Gasoline and motor oil ($000)
+      OTHRVEH:        Other vehicle expenses ($000)
+      PUBTRANS:       Public and other transportation ($000)
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2022
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R13149034
+
+If you have any questions contact info@socialexplorer.com

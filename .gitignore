@@ -2,6 +2,10 @@
 
 # are ignoring these folders lol
 _archive/
-SeattleData/
 ScreenRecordings/
+seattle/figures/
+seattle/output/
+seattle/datasets/_archive
+seattle/_archive/
+chicago/
 .ipynb_checkpoints/
